@@ -1,7 +1,8 @@
 # TODO
 - [ ] Data Manager
-  - [ ] Get data from website
+  - [x] Get data from website
   - [ ] Parse data
+    - [ ] Complete arrival : add rank
   - [ ] Integrate in database
 - [ ] Server
 - [ ] Client

@@ -1,5 +1,6 @@
 # TODO
 - [ ] Data Manager
+  - [ ] Update .pro unix:!macx: for INCLUDEPATH and DEPENDPATH
   - [x] Get data from website
   - [x] Parse data
     - [x] Complete arrival : add rank

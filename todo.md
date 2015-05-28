@@ -3,8 +3,11 @@
   - [x] Get data from website
   - [x] Parse data
     - [x] Complete arrival : add rank
-  - [ ] Integrate in database
-    - [ ] Check if data already exists
+  - [x] Integrate in database
+    - [x] Check if data already exists
   - [ ] Prepare Job
+    - [ ] Using of ponyprediction.arrival or ponyprediction.race ?
+    - [ ] Avoid flooding when data already exist : group error message
+    - [ ] GetFirstTrainerCount & GetFirstJockeyCount
 - [ ] Server
 - [ ] Client

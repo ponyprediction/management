@@ -1,9 +1,10 @@
 # TODO
 - [ ] Data Manager
-    - [ ] Create folders if needed
+    - [x] Create folders if needed
     - [ ] Update .pro unix:!macx: for INCLUDEPATH and DEPENDPATH
     - [x] Get data from website
     - [x] Parse data
+        - [ ] Do something if ponyCountArrival ∉ [1;7] (race is canceled || tie)
         - [ ] Complete arrival
             - [x] Add rank
             - [ ] Add trainer

@@ -17,7 +17,8 @@
         - [ ] Implement getFirstTrainerCount() & getFirstJockeyCount()
         - [ ] Implement getTrainerInRaceWhereTeamAndPonyAndJockey()
     - [ ] More data 
-        - [ ] % disqualification   
+        - [ ] % disqualification
+    - [ ] Rework commands
 - [ ] Server
 - [ ] Client
 - [ ] Website

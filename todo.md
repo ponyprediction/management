@@ -4,7 +4,7 @@
     - [ ] Update .pro unix:!macx: for INCLUDEPATH and DEPENDPATH
     - [x] Get data from website
     - [x] Parse data
-        - [ ] Do something if ponyCountArrival ∉ \[1;7\] \(race is canceled ; tie\)
+        - [ ] Do something if ponyCountArrival ∉ \[1;7\] \(maybe race is canceled or tie\)
         - [ ] Complete arrival
             - [x] Add rank
             - [ ] Add trainer

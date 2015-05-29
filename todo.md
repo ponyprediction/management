@@ -10,7 +10,7 @@
             - [x] Add trainer
     - [ ] Integrate in database
         - [x] Check if data already exists
-        - [ ] Check if empty file
+        - [x] Check if empty file
         - [x] Secure function
     - [ ] Prepare Job
         - [ ] Avoid flooding when data already exist : group error message
@@ -19,6 +19,9 @@
     - [ ] More data 
         - [ ] % disqualification
     - [ ] Rework commands
+    - [ ] Output
+        - [ ] Color when Error/Warning/Info
+        - [ ] Level of debug in config file ?
 - [ ] Server
 - [ ] Client
 - [ ] Website

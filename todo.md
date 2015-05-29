@@ -11,7 +11,8 @@
         - [x] Check if data already exists
     - [ ] Prepare Job
         - [ ] Avoid flooding when data already exist : group error message
-        - [ ] GetFirstTrainerCount & GetFirstJockeyCount
+        - [ ] Implement getFirstTrainerCount() & getFirstJockeyCount()
+        - [ ] Implement getTrainerInRaceWhereTeamAndPonyAndJockey()
 - [ ] Server
 - [ ] Client
 - [ ] Website

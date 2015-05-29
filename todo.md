@@ -1,21 +1,21 @@
 # TODO
 - [ ] Data Manager
     - [x] Create folders if needed
-    - [ ] Update .pro unix:!macx: for INCLUDEPATH and DEPENDPATH
+    - [x] Update .pro unix:!macx: for INCLUDEPATH and DEPENDPATH
     - [x] Get data from website
     - [x] Parse data
         - [ ] Do something if ponyCountArrival ∉ \[1;7\] \(maybe race is canceled or tie\)
         - [ ] Complete arrival
             - [x] Add rank
-            - [ ] Add trainer
+            - [x] Add trainer
     - [ ] Integrate in database
         - [x] Check if data already exists
         - [ ] Check if empty file
-        - [ ] Secure function
+        - [x] Secure function
     - [ ] Prepare Job
         - [ ] Avoid flooding when data already exist : group error message
-        - [ ] Implement getFirstTrainerCount() & getFirstJockeyCount()
-        - [ ] Implement getTrainerInRaceWhereTeamAndPonyAndJockey()
+        - [x] Implement getFirstTrainerCount() & getFirstJockeyCount()
+        - [x] Implement getTrainerInRaceWhereTeamAndPonyAndJockey()
     - [ ] More data 
         - [ ] % disqualification
     - [ ] Rework commands

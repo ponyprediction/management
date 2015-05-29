@@ -1,14 +1,17 @@
 # TODO
 - [ ] Data Manager
-  - [ ] Update .pro unix:!macx: for INCLUDEPATH and DEPENDPATH
-  - [x] Get data from website
-  - [x] Parse data
-    - [x] Complete arrival : add rank
-  - [x] Integrate in database
-    - [x] Check if data already exists
-  - [ ] Prepare Job
-    - [ ] Using of ponyprediction.arrival or ponyprediction.race ?
-    - [ ] Avoid flooding when data already exist : group error message
-    - [ ] GetFirstTrainerCount & GetFirstJockeyCount
+    - [ ] Create folders if needed
+    - [ ] Update .pro unix:!macx: for INCLUDEPATH and DEPENDPATH
+    - [x] Get data from website
+    - [x] Parse data
+        - [ ] Complete arrival
+            - [x] Add rank
+            - [ ] Add trainer
+    - [x] Integrate in database
+        - [x] Check if data already exists
+    - [ ] Prepare Job
+        - [ ] Avoid flooding when data already exist : group error message
+        - [ ] GetFirstTrainerCount & GetFirstJockeyCount
 - [ ] Server
 - [ ] Client
+- [ ] Website

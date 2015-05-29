@@ -12,6 +12,7 @@
         - [x] Check if data already exists
         - [x] Check if empty file
         - [x] Secure function
+        - [ ] getFileName in Util ?
     - [ ] Prepare Job
         - [ ] Avoid flooding when data already exist : group error message
         - [x] Implement getFirstTrainerCount() & getFirstJockeyCount()
@@ -20,8 +21,9 @@
         - [ ] % disqualification
     - [ ] Rework commands
     - [ ] Output
-        - [ ] Color when Error/Warning/Info
+        - [x] Color when Error/Warning/Info
         - [ ] Level of debug in config file ?
+        - [ ] Write error/warning in a file ?
 - [ ] Server
 - [ ] Client
 - [ ] Website

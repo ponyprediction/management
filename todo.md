@@ -8,8 +8,9 @@
         - [ ] Complete arrival
             - [x] Add rank
             - [ ] Add trainer
-    - [x] Integrate in database
+    - [ ] Integrate in database
         - [x] Check if data already exists
+        - [ ] Check if empty file
     - [ ] Prepare Job
         - [ ] Avoid flooding when data already exist : group error message
         - [ ] Implement getFirstTrainerCount() & getFirstJockeyCount()

@@ -11,10 +11,13 @@
     - [ ] Integrate in database
         - [x] Check if data already exists
         - [ ] Check if empty file
+        - [ ] Secure function
     - [ ] Prepare Job
         - [ ] Avoid flooding when data already exist : group error message
         - [ ] Implement getFirstTrainerCount() & getFirstJockeyCount()
         - [ ] Implement getTrainerInRaceWhereTeamAndPonyAndJockey()
+    - [ ] More data 
+        - [ ] % disqualification   
 - [ ] Server
 - [ ] Client
 - [ ] Website

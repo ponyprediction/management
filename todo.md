@@ -24,6 +24,7 @@
         - [x] Color when Error/Warning/Info
         - [ ] Level of debug in config file ?
         - [ ] Write error/warning in a file ?
+    - [ ] Reformat race->start
 - [ ] Server
 - [ ] Client
 - [ ] Website

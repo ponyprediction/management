@@ -12,7 +12,7 @@
         - [x] Check if data already exists
         - [x] Check if empty file
         - [x] Secure function
-        - [ ] getFileName in Util ?
+        - [x] getFileName in Util ?
     - [ ] Prepare Job
         - [ ] Avoid flooding when data already exist : group error message
         - [x] Implement getFirstTrainerCount() & getFirstJockeyCount()

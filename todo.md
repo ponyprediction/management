@@ -17,6 +17,8 @@
         - [ ] Avoid flooding when data already exist : group error message
         - [x] Implement getFirstTrainerCount() & getFirstJockeyCount()
         - [x] Implement getTrainerInRaceWhereTeamAndPonyAndJockey()
+        - [ ] Implement getArrival()
+        - [x] Write job to file
     - [ ] More data 
         - [ ] % disqualification
     - [ ] Rework commands

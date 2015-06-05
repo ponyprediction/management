@@ -28,5 +28,10 @@
         - [ ] Write error/warning in a file ?
     - [ ] Reformat race->start
 - [ ] Server
+    - [ ] jobId ?
+    - [ ] test saveBrain
+    - [ ] test getBrain
+    - [ ] log from db
+    - [ ] getJob from db
 - [ ] Client
 - [ ] Website

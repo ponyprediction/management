@@ -34,4 +34,5 @@
     - [ ] log from db
     - [ ] getJob from db
 - [ ] Client
+    - [ ] path not the same on mac and on other (find a solution)
 - [ ] Website

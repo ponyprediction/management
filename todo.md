@@ -33,6 +33,7 @@
     - [ ] test getBrain
     - [ ] log from db
     - [ ] getJob from db
+    - [ ] fix bug in sendbrain
 - [ ] Client
     - [ ] path not the same on mac and on other (find a solution)
 - [ ] Website

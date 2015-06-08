@@ -29,7 +29,7 @@
     - [ ] Reformat race->start
 - [ ] Server
     - [ ] jobId ?
-    - [ ] test saveBrain
+    - [ ] savebrain in db : only have 100 brains for 1 job in the db ! 2 tables : brains and bestBrains
     - [ ] test getBrain
     - [ ] log from db
     - [ ] getJob from db
@@ -37,3 +37,4 @@
 - [ ] Client
     - [ ] path not the same on mac and on other (find a solution)
 - [ ] Website
+    - [ ] MySQL to MongoDB

@@ -5,28 +5,28 @@
     - [x] Get data from website
     - [x] Parse data
         - [ ] Do something if ponyCountArrival ∉ \[1;7\] \(maybe race is canceled or tie\)
-        - [ ] Complete arrival
+        - [x] Complete arrival
             - [x] Add rank
             - [x] Add trainer
-    - [ ] Integrate in database
+    - [x] Integrate in database
         - [x] Check if data already exists
         - [x] Check if empty file
         - [x] Secure function
         - [x] getFileName in Util ?
-    - [ ] Prepare Job
-        - [ ] Avoid flooding when data already exist : group error message
+    - [x] Prepare TrainingSet
+        - [x] Avoid flooding when data already exist : group error message
         - [x] Implement getFirstTrainerCount() & getFirstJockeyCount()
         - [x] Implement getTrainerInRaceWhereTeamAndPonyAndJockey()
-        - [ ] Implement getArrival()
+        - [x] Implement getArrival()
         - [x] Write job to file
     - [ ] More data 
         - [ ] % disqualification
-    - [ ] Rework commands
-    - [ ] Output
+    - [x] Rework commands
+    - [x] Output
         - [x] Color when Error/Warning/Info
-        - [ ] Level of debug in config file ?
-        - [ ] Write error/warning in a file ?
-    - [ ] Reformat race->start
+        - [x] Level of debug in config file ?
+        - [x] Write error/warning in a file ?
+    - [x] Reformat race->start
 - [ ] Server
     - [ ] jobId ?
     - [ ] savebrain in db : find a way to delete the first brain inserted from array of 100

@@ -29,7 +29,7 @@
     - [x] Reformat race->start
 - [ ] Server
     - [ ] jobId ?
-    - [ ] savebrain in db : find a way to delete the first brain inserted from array of 100
+    - [x] savebrain in db : find a way to delete the first brain inserted from array of 100
     - [x] test getBrain
     - [ ] log from db
     - [ ] getJob from db
